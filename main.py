@@ -21,7 +21,7 @@ async def on_startup():
 async def on_command_error(event: interactions.events.CommandError):
     await event.ctx.send("Encountered an error!")
 
-pc.setup(bot, default_prefix = "!!") 
+pc.setup(bot, default_prefix = ">") 
 names = []
 
 
