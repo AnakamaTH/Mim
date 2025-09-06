@@ -11,3 +11,9 @@
 > !!overlay
 
 > !!p2
+
+> !!setup
+
+> !!showpos
+
+> !!sst
