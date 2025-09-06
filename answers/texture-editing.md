@@ -3,4 +3,4 @@
 If you are looking for Portal colors,
 For crosshair colors use [SST](https://mikes.software/sst/)
 
-[For portals and particles use Portal Tools](https://github.com/wozniak/portaltools/releases)
+For portals and particles use [Portal Tools](https://github.com/wozniak/portaltools/releases)
