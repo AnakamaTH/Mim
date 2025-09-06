@@ -1,1 +1,1 @@
-We do have a p2.md, why not a portal2.md too?
+Accident, can't delet this on mobile smh
